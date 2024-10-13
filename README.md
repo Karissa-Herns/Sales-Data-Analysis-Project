@@ -18,3 +18,22 @@ Technologies Used
 SQL: For querying datasets and extracting actionable insights.
 MySQL: Database management system used to store and manipulate the sales data.
 Data Analysis: Analyzing sales trends, product performance, and customer purchasing behavior.
+
+### Queries Included
+Query 1: Count orders with a 6-character order ID in February.
+Query 2: Find customers with orders having 6-character IDs.
+Query 3: Identify the product with the lowest price in January.
+Query 4: Calculate revenue per product in January.
+
+### Results
+##### This analysis provides key insights into:
+
+* Customer buying patterns based on order length and location.
+* Product performance and revenue contribution by category.
+* Operational improvements by analyzing high-performing products and sales location trends.
+* Future Work
+
+### Potential future improvements to the analysis could include:
+
+* Automating the process with stored procedures or triggers.
+* Integrating data visualization using tools like Power BI or Tableau to better communicate findings.
